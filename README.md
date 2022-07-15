@@ -2,6 +2,7 @@
 
 📖 &nbsp;I am a computer science student at the University of North Sumatra  
 💻 &nbsp;I am interested in programming and building apps, now I'm focused on Front - End Development
+
 💬 &nbsp;Feel free to reach out to me if you have some interesting discussion.
 
 ### 🛠 &nbsp;Tech Stack
