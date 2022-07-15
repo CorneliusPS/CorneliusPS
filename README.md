@@ -1,8 +1,7 @@
 # Hi there 👋 Welcome to My Profile!
 
-📖 &nbsp;I am a computer science student at the University of North Sumatra  
-💻 &nbsp;I am interested in programming and building apps, now I'm focused on Front - End Development
-
+📖 &nbsp;I am a computer science student at the University of North Sumatra   
+💻 &nbsp;I am interested in programming and building apps, now I'm focused on Front - End Development   
 💬 &nbsp;Feel free to reach out to me if you have some interesting discussion.
 
 ### 🛠 &nbsp;Tech Stack
@@ -19,7 +18,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 
 
